@@ -5,6 +5,7 @@
 //  Created by Aleksandr Medvedev on 18.08.2022.
 //
 
+#import <SLProject/SLProject.h>
 #import "ViewController.h"
 
 @interface ViewController ()
@@ -15,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    [self.view tdw_printHierarchy];
 }
 
 

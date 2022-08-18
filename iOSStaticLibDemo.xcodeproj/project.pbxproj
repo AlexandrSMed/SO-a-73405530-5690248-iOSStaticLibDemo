@@ -75,6 +75,7 @@
 		5D53C38F28AE826D0004402D /* SLProject.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SLProject.xcodeproj; path = SLProject/SLProject.xcodeproj; sourceTree = "<group>"; };
 		5D53C39D28AE8E4B0004402D /* iOSStaticLibDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iOSStaticLibDemo-Bridging-Header.h"; sourceTree = "<group>"; };
 		5D53C39E28AE8E4B0004402D /* SwiftView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftView.swift; sourceTree = "<group>"; };
+		5D53C3A128AEC1750004402D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 		5D53C33628AE7B3A0004402D = {
 			isa = PBXGroup;
 			children = (
+				5D53C3A128AEC1750004402D /* README.md */,
 				5D53C38F28AE826D0004402D /* SLProject.xcodeproj */,
 				5D53C34128AE7B3A0004402D /* iOSStaticLibDemo */,
 				5D53C36028AE7B3B0004402D /* iOSStaticLibDemoTests */,
